@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.avatar {
+    border: 2cm;
+    border-style: solid;
+    border-color: blue;
+}
+
+.avatar.proportioned {
+    width: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+.original.distorted {
+    border-style: solid;
+    border-radius: 20%;
+}
