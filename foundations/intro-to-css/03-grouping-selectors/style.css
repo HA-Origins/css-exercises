@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.buttonyes,
+.buttonno {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttonyes {
+    background-color: black;
+    color: white;
+}
+
+.buttonno {
+    background-color: yellow;
+}
